@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER AXI_LOCK_SSD
+	OPTION supported_peripherals = (AXI_LOCK_SSD);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = AXI_LOCK_SSD;
+END DRIVER
