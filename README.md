@@ -1,5 +1,9 @@
 # Digital Lock System
 
+## Project Setup
+* For the Zybo Z7-20 setup, click [here][3].
+* For the ZedBoard setup, click [here][4].
+
 ## Requirements
 * _Software_
   * [Vivado] Design Suite 2019.1
@@ -61,6 +65,10 @@ https://digilent.com/reference/pmod/pmodssd/start
 [KYPD]:
 https://digilent.com/shop/pmod-kypd-16-button-keypad/
 [1]:
-https://www.yahoo.com
+../main/docs/Lock_Zybo_Instructions.pdf
 [2]:
 ../main/docs/Lock_Zed_Instructions.pdf
+[3]:
+../main/docs/lock.jpg
+[4]:
+../main/docs/lock_zed.jpg
