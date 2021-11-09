@@ -43,11 +43,9 @@ Language | C
 
 ## Operating Modes
 * _Guest_ _Mode_  
-
-Allows the user up to five times to guess the combination. Corresponding characters and LED patterns are generated based on the current input status.
+- Allows the user up to five times to guess the combination. Corresponding characters and LED patterns are generated based on the current input status.
 * _Administrator_ _Mode_  
-
-A two-stage process that lets the user modify various information.
+- A two-stage process that lets the user modify various information.
 1. *Switch* *change*: A switch combination must be applied to the lock in order to move on to the second stage. 
 2. *Keypad* *input*: The lock will prompt for the administrator password. Once verified, the user will be able to reset or change the lock/admin combinations.
 
