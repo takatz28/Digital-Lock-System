@@ -61,6 +61,6 @@ https://digilent.com/reference/pmod/pmodssd/start
 [KYPD]:
 https://digilent.com/shop/pmod-kypd-16-button-keypad/
 [1]:
-https://www.google.com
-[2]:
 https://www.yahoo.com
+[2]:
+../docs/Lock_Zed_Instructions.pdf
