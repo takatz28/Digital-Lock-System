@@ -39,13 +39,17 @@ Processor | ps7_cortex a9_0
 Language | C
 
 9. Click on Next, select the _Empty_ _Application_ template, then click Finish.
-10. Copy the contents of `src` into the `src` folder under "Project Name". 
+10. Copy the contents of `(zybo/zybo_zed)/src` into the `src` folder under "Project Name". 
 11. Under Project Explorer, right-click on the project folder, click on _C/C++_ _Build_ _Settings_.
 12. Under _Libraries_, click on *Add*, then type `m`.
 13. Program the FPGA.
 14. Right-click on the project folder, click on _Run_ _As_ &gt; _Launch_ _On_ _Hardware_ (GDB).
 
 ## Operating Modes
+* Guest Mode
+* Administrator Mode
+
+
 
 
 
