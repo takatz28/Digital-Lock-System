@@ -63,4 +63,4 @@ https://digilent.com/shop/pmod-kypd-16-button-keypad/
 [1]:
 https://www.yahoo.com
 [2]:
-../docs/Lock_Zed_Instructions.pdf
+../blob/main/docs/Lock_Zed_Instructions.pdf
