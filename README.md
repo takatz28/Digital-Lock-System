@@ -48,8 +48,8 @@ Allows the user up to five times to guess the combination. Corresponding charact
 * _Administrator_ _Mode_  
 
 A two-stage process that lets the user modify various information.
-1. Switch change: A switch combination must be applied to the lock in order to move on to the second stage. 
-2. Keypad input: The lock will prompt for the administrator password. Once verified, the user will be able to reset or change the lock/admin combinations.
+1. *Switch* *change*: A switch combination must be applied to the lock in order to move on to the second stage. 
+2. *Keypad* *input*: The lock will prompt for the administrator password. Once verified, the user will be able to reset or change the lock/admin combinations.
 
 
 [Vivado]:
