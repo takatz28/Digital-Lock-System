@@ -8,13 +8,12 @@
 * _Software_
   * [Vivado] Design Suite 2019.1
 * _Hardware_
-  * [Zybo] Z7-20 Zynq-7000 Development Board
+  * [Zybo] Z7-20 Zynq-7000 Development Board, or
   * [ZedBoard] Zynq-7000 ARM/FPGA SoC Development Board
 * _Peripherals_
   * PMOD seven-segment display ([SSD])
   * Pmod [KYPD] 16-button Keypad
-  * Two passive buzzers
-  * microSD card with less than 16GB capacity (optional)
+  * One passive buzzer (Zybo version)
 ## Instructions ([Zybo][1]/[Zedboard][2])
 
 
